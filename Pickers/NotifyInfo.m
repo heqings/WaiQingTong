@@ -1,0 +1,13 @@
+//
+//  NotifiInfo.m
+//  Pickers
+//
+//  Created by 张飞 on 12-3-23.
+//  Copyright (c) 2012年 __MyCompanyName__. All rights reserved.
+//
+
+#import "NotifyInfo.h"
+
+@implementation NotifyInfo
+@synthesize niId,ntId,peopelId,niType,niName,niPath,niStatus,niDate,isRead,isMySpeaking,niContent,recordTime;
+@end
